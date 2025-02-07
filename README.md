@@ -56,6 +56,17 @@ L'application s'ouvrira dans votre navigateur.
 - **Comparaison d'attributs des artistes** (graphiques empilés)
 - **Analyse des genres musicaux par année** (graphiques à bulles)
 
+## Captures
+![dash1](https://github.com/user-attachments/assets/a7fd5d3e-c6c1-4744-9923-953ea6b86201)
+
+![dash2](https://github.com/user-attachments/assets/03b1f985-b2ff-4dc7-a3dd-b351ce9d8b83)
+
+![dash3](https://github.com/user-attachments/assets/c47c69c3-fca1-4d35-9022-df50ecac3b3a)
+
+![dash4](https://github.com/user-attachments/assets/a3f6383f-e98d-471f-a86a-71e92c128d6b)
+
+![dash5](https://github.com/user-attachments/assets/1caf87af-c918-4bab-837c-3ee211204b0c)
+
 ## Contribution
 Les contributions sont les bienvenues ! Forkez le dépôt et proposez vos améliorations.
 
